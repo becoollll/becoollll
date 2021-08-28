@@ -1,6 +1,6 @@
 ### Hi~ I'm Sophia.👋
 ------
-🖥️ Major in Computer Science & Information at Nation Dong Hwa University
+🖥️ Major in Computer Science & Information Engineering at Nation Dong Hwa University
 ***
 📖 Currently learning python, html, css
 ***
