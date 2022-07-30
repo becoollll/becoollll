@@ -2,8 +2,6 @@
 ------
 🖥️ Major in Computer Science & Information Engineering at Nation Dong Hwa University
 ***
-📖 Currently learning python, html, css
-***
 📑 My Little Website : [https://becoollll.github.io/](https://becoollll.github.io/)
 ***
 📫 Contact me :
