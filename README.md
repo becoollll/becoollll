@@ -46,4 +46,3 @@
   </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becoollll&layout=compact&theme=graywhite)](https://github.com/becoollll/github-readme-stats)
